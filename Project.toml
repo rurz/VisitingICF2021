@@ -1,0 +1,7 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+HypergeometricFunctions = "34004b35-14d8-5ef3-9330-4cdb6864b03a"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+SpecialPolynomials = "a25cea48-d430-424a-8ee7-0d3ad3742e9e"
+WignerFunctions = "254dfee8-34ea-5651-b6ea-a82e9a16dad9"
