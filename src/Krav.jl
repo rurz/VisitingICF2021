@@ -3,7 +3,7 @@
 using HypergeometricFunctions
 using SpecialFunctions
 
-export kp, binom, Φ
+export kp, binom, Φ, Φ2
 
 "`kp(n, q, N)` gives the symmetric Kravchuk polynomia for n ∈ [0, N] and q ∈ [-N,N]"
 kp(n, q, N) = HypergeometricFunctions._₂F₁general2(-BigFloat(n), -q, -N, 2)
