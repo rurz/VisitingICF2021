@@ -1,3 +1,8 @@
+name = "VisitingICF2021"
+uuid = "2b49fd1c-9f17-11eb-1134-4977ae0a7e23"
+authors = ["Alejandro R. Urzúa <arurz@inaoep.mx>"]
+version = "0.1.0"
+
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 HypergeometricFunctions = "34004b35-14d8-5ef3-9330-4cdb6864b03a"

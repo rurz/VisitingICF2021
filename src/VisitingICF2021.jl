@@ -1,4 +1,4 @@
 module VisitingICF2021
-    include("Angular.jl")
-    include("KravFunc.jl")
+    include("Krav.jl")
+    include("Wignerd.jl")
 end
