@@ -1,6 +1,6 @@
 using VisitingICF2021
 
-export LKd, LKu
+export  ϕd, ϕu, LKd, LKu
 
 "`Φd(q₁, q₂, n, m, j)` shows the rotations of the Kravchuk function modes at (n, |m| ≤ n) for n ∈ [0, 2j]. It needs to be evaluted at (q₁, q₂) ∈ [0, 2j + 1]."
 function Φd(q₁, q₂, n, m, j)
