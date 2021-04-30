@@ -1,6 +1,6 @@
 # 2021 Research Fellowship at ICF-UNAM
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rurz/VisitingICF2021/HEAD?urlpath=lab)
 
 **Author**: Alejandro R. Urzúa (rurz@github)
 
