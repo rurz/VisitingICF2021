@@ -4,7 +4,7 @@ import Images
 
 export imgload, chsplit
 
-"`imgload("path_string")` returns the array of values of a monochromatic or polychromatic image. In the first case is onlye an N×N matrix, in the second case is a collection of three N×N matrices."
+"`imgload(path_string)` returns the array of values of a monochromatic or polychromatic image. In the first case is onlye an N×N matrix, in the second case is a collection of three N×N matrices."
 function imgload(path::String)
     return Images.load(path)
 end
