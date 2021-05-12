@@ -1,4 +1,4 @@
-"This script is intended to manipulate the multidimensional arrays from the image manipulation"
+"This script is intended to manipulate the multidimensional arrays from the image transformation"
 
 import Images
 
