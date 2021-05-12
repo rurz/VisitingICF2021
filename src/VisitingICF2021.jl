@@ -3,5 +3,5 @@ module VisitingICF2021
     include("Wignerd.jl")
     include("LagKrav.jl")
     include("ImageAcq.jl")
-    include("ImageRots.jl")
+    include("ImgRots.jl")
 end
